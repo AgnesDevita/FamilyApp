@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "web": {
+      "name": "familyapp",
       "bundler": "metro",
       "output": "single",
       "favicon": "./assets/images/favicon.png"
